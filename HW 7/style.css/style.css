@@ -1,0 +1,28 @@
+.container {
+    position: relative; 
+    margin-top: 100px;
+    margin-left: 200px; 
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border: 2px solid transparent; 
+    position: absolute; 
+}
+
+.red-border {
+    left: 0; 
+    border-color: red; 
+}
+
+.blue-border {
+    left: 140px;
+    border-color: blue; 
+}
+
+.green-border {
+    left: 280px; 
+    border-color: green; 
+}
